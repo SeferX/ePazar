@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@700;900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto';
+    outline: 0;
+    z-index: 10;
+}
+
+.title a {
+    color: #B6614E;
+    text-decoration: none;
+}
+
+.navigation a {
+    color: #B6614E;
+    text-decoration: none;
+}
+
+a.signup{
+    color:white;
+}
